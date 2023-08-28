@@ -2,6 +2,8 @@
 
 Este repositório contém um script Python chamado `app.py` que permite aos usuários coletar e visualizar os dados de ações financeiras, bem como realizar previsões para o período desejado. O script utiliza diversas bibliotecas Python para tornar a experiência completa e informativa.
 
+<p> Acesse em: https://preditiva-acoes.streamlit.app/</p>
+
 <div align="center">
     <img src="https://github.com/catianemarinho/analise_preditiva_acoes/assets/97571709/915af182-8ab4-401e-a43d-9b59966c77ff">
 </div>
